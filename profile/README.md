@@ -3,7 +3,7 @@
     <h1>삼해트의 공방</h1>
 </div>
 <div align="center">
-    해피트리봇, 허브 봇을 개발 및 운영합니다.
+    교단이, 해피트리봇, 허브 봇을 개발 및 운영합니다.
     <br><br>
     <a href="https://discord.gg/TD9BvMxhP6">디스코드 서버</a> | <a href="https://htlab.kr">웹사이트</a> | <a href="https://guide.htlab.kr">공방 봇 가이드</a>
 </div>
@@ -11,6 +11,7 @@
 ---
 
 ## 프로젝트 목록
++ [교단이](https://koreanbots.dev/bots/994242707130159164) - 학교 생활을 편리하게 도와주는 디스코드 봇입니다.
 + ~~뽀빠이~~ [ 현재 준비 중 ]
 + [해피트리봇](https://koreanbots.dev/bots/726376311710548049) - 새롭게 돌아온 잡다한 디스코드 봇입니다.
 + [허브 봇](https://koreanbots.dev/bots/812156396409323542) - 쓸때없는(?) 기능이 많지만 잡다한 기능이 있는 디스코드 봇입니다.
